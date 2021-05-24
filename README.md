@@ -1,6 +1,4 @@
-# StockApp
-
-------
+# StockApp - SE346.L21 
 
 ### Danh sách thành viên nhóm
 
